@@ -22,8 +22,8 @@ const siteConfig = {
   baseUrl: '/' /* base url for your project */,
   projectName: '',
   headerLinks: [
-    {doc: 'icp01', label: 'Produtos'},
-    {doc: 'doc2', label: 'Badges'},
+    {doc: 'icp-ofer-01', label: 'Ofertas'},
+    {doc: 'icp-prod-01', label: 'Produtos'},
     {page: 'help', label: 'Ajuda'},
     {blog: true, label: 'Blog'},
   ],

@@ -1,5 +1,5 @@
 ---
-id: icp01
+id: icp-prod-01
 title: IBM Private Cloud 
 sidebar_label: IBM Private Cloud
 ---
