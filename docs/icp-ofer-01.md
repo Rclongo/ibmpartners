@@ -23,10 +23,8 @@ IBM Cloud Private ajuda os clientes a migrar para arquiteturas modernas de nuvem
 
 ## Treinamentos e Workshops
 ------------------------------------------------
+Os treinamentos e workshops de ICP serão postados no IBM Open Cloud Community nesse [link](https://ibmcloudbrazil.github.io/docs/icp-treina-01.html)
 
-|Data|Workshop|Local|Vagas|Inscrição|
-|---|---|---|---|---|
-|26/04/2018| Containers, Kubernetes e ICP - O que fazem, aonde vivem, do que se alimentam ! | IBM Tutoia | 20 | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfjvcHabR2gU3H7XY5wJ3TeaJy-98sTdxKG3yAdIq4SYEXULA/viewform)|
 <br />
 
 
