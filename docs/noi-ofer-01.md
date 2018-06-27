@@ -4,6 +4,7 @@ title: Management for Multi-Cloud and Applications
 sidebar_label: Management for Multi-Cloud and Applications
 ---
 ## Sobre a Oferta
+-----------------------------------
 
 A oferta de Management for Multi-Cloud and Applications oferece soluções de gerenciamento de nuvem de ponta a ponta, incluindo análise de operações cognitivas e técnicas de aprendizado de máquina.
 
@@ -22,6 +23,7 @@ O IBM Cloud Management fornece uma ampla e profunda cobertura de solução para 
 |---|---|---|---|---|
 | Managing Dynamic IT Environments and Cloud Based Networks Just Got Easier | Introdutório | This module will provide you na overview how can NOI can help manage cloud environments | 54 Minutos | https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=GMV14152USEN& | 
 | DevOps Application Performance Management for Dummies | Introdutório | Learn how APM can help DevOps practitioners streamline testing, deployment and management of hybrid business applications. | 60 Minutos | https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=KUM12368USEN# |
+| Introducing IBMs new Service Management and Cloud-native offering: IBM Cloud App Management | Introdutório | So, what has IBM Cloud App Management to offer? With a strong focus on fast deployment times, scalability, IBM Tivoli Monitoring (ITM), and Application Performance Management (APM) integration, Cloud App Management now positions itself at the forefront of the market as a truly scalable cloud native offering. Let’s look at the key features and functionalities. | 30 Minutos | https://developer.ibm.com/apm/2018/06/26/introducing-ibms-new-service-management-cloud-native-offering-ibm-cloud-app-management/#comments |
 | IBM Workload Scheduler - What is TWS? | Introdutório | Whether you are new to TWS, or just need a refresher, this presentation will walk you through all the pieces that make up the Workload Automation product. | 24 Minutos | https://www.youtube.com/watch?v=aUuhm8hRqVM | 
 | Agile Service Manager Introduction | Introdutório | This module will provide you with an overview of the IBM Netcool Agile Service Managemente to better understand the new features. | 2 Minutos | https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=course_description&cc=&courseCode=TOD43G | 
 | IBM Netcool Operations Insight 1.4 - Fundamentals | Intermediário | This course shows you how to solve business problems using an integrated suite of products. The products integrated in this course include Netcool/OMNIbus, Netcool/Impact, IBM Operations Analytics Log Analysis, IBM Tivoli Network Manager, and Netcool Configuration Manager. | 16 Horas | https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=course_description&cc=&courseCode=TOD43G |
