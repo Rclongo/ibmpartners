@@ -19,6 +19,7 @@ O IBM Cloud Management fornece uma ampla e profunda cobertura de solução para 
 
 ## Treinamentos
 -----------------------------------
+
 |Título|Tipo|Descrição|Duração|Link| 
 |---|---|---|---|---|
 | Managing Dynamic IT Environments and Cloud Based Networks Just Got Easier | Introdutório | This module will provide you na overview how can NOI can help manage cloud environments | 54 Minutos | https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=GMV14152USEN& | 
@@ -30,3 +31,11 @@ O IBM Cloud Management fornece uma ampla e profunda cobertura de solução para 
 | Best Practices for Monitoring Your Cloud Environment and Applications | Intermediário | You have completed the heavy lifting of migrating applications to the cloud. But you are not done yet. What is your monitoring strategy for the cloud? What are the best practices to monitor the cloud infrastructure, deployed applications and user experience? This session will answer these questions and explore the various IBM APM and Analytics offerings while sharing customer scenarios, to help you weigh different approaches. Having a comprehensive monitoring strategy is critical, as most customers use a combination of public and private cloud environments. Finally, this session will discuss strategies for monitoring cloud native applications that use microservices and are extremely dynamic, using approaches like docker and autoscaling. | 60 Minutos | https://www.imwuc.org/p/do/sd/sid=3424 |
 | Webinar: ROI Study: The Total Economic Impact™ of IBM Netcool Operations Insight | Intermediário | IBM commissioned Forrester Consulting to conduct this Total Economic Impact (TEI) study that examines the potential return on investment (ROI) for IBM Netcool Operations Insight (NOI). Join this session to learn more. | https://www.ibm.com/events/EF7NNJES |
 | IBM Cloud Application Performance Management 8.1.4 Fundamentals | Intermediário | This course teaches new and experienced operators, administrators, and implementers of Application Performance Management v8.1.4 how to effectively use the tools to manage their enterprise monitoring needs. | https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=course_description&cc=&courseCode=TM674G |
+
+## Próximos Webcasts
+-----------------------------------
+|Data|Horário|Nome|Público|Descrição|Inscrição| 
+|---|---|---|---|---|---|
+| 13/07/2018 | 11:00 | The Future of IBM Service Management | Geral | An overview of the long term strategy for the IBM Service Management group including Netcool Operations Insights, Application Performance Management and Operations Analytics.| https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=&eventid=1780054&sessionid=1&key=DAB7B936A51E5956C58EE63766C684C0&regTag=&sourcepage=register |
+| 13/07/2018 | 12:00 | ASAP University: Mixed IBM Workload Scheduler Licensing | Geral | In this session you learn how you can cut costs, improve efficiency, and get the best return from your company's batch process with an IBM Workload Automation Hybrid Licensing Model. | https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=&eventid=1784181&sessionid=1&key=284ED51EEC650EC208B0B608B74A268F&regTag=&sourcepage=register |
+|---|---|---|---|---|---|
