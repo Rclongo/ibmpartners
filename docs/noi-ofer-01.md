@@ -16,6 +16,7 @@ Apenas a IBM fornece uma solução única para o Gerenciamento dos Aplicativos.
 
 O IBM Cloud Management fornece uma ampla e profunda cobertura de solução para que as empresas gerenciem de forma confiável e consistente o desempenho de aplicativos essenciais aos negócios em ambientes de TI em nuvem, no local e híbridos.
 
+![Figura1](https://ibm.box.com/s/zu0bx0o7y2jaec18vuh2k1eqy758ev19/Figura1.png)
 
 ## Treinamentos
 -----------------------------------
