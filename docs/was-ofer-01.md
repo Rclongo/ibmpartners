@@ -37,5 +37,20 @@ Também são oferecidos de forma totalmente gratuita para os clientes IBM ferram
 [Microclimate]https://www.ibm.com/us-en/marketplace/microclimate
 [Transformation Advisor]https://developer.ibm.com/product-insights/transformation-advisor/
 
+## Roadmap de treinamentos
+
+Título | Descrição | Link
+------------ | ------------- | -------------
+Comparação entre versões de WAS | Quais as diferenças e aprimoramentos de versão para versão de WAS ? | https://www.slideshare.net/ejlp12/ibm-websphere-application-server-version-to-version-comparison
+Websphere Family Edition | Explicação do modelo Family Edition de distribuição, e como ele suporta diversos modelos de negócios | https://www.ibm.com/us-en/marketplace/websphere-family-edition
+Ciclo de vida Websphere | Todas as versões e quando são suportadas | https://www-01.ibm.com/software/websphere/support/lifecycle/
+Especificações e documentação das APIs | O Ebsphere suporta diversos padrões de mercado. Este tópico lista os padrões e APIs suportados para cada versão de servidor | https://www.ibm.com/support/knowledgecenter/en/SSAW57_8.5.5/com.ibm.websphere.nd.doc/ae/rovr_specs.html
+Servidor totalmente compatível com Web Profile | Comparação das versões full profile e Web Profile | https://www.ibm.com/support/knowledgecenter/en/SSEQTP_9.0.0/com.ibm.websphere.base.doc/ae/covr_javaee7.html
+Publicar em Websphere na Cloud | Este laboratório apresenta como é possível publicar uma aplicação diretamente eu um ambiente cloud, com um exemplo de Microserviço implementando um controlador de ações de bolsas de valores.  | https://bluedemos.com/show/750
+Movendo WAS para a Cloud | Como simplificar o ambiente onde aplicações WAS executam, rodando diretamente em uma Cloud ? Deseja reduzir custos com infraestrutura do servidor ? Quer integrar sua aplicação com modernos recursos de analytics e Inteligência artifical ? | https://www.ibm.com/blogs/bluemix/2017/06/taking-websphere-applications-to-the-cloud/
+Microclimate | Microclimate fornece uma solução fim a fim, simplificando os processos de criação, build, teste e publicação de aplicações A solução oferece templates e ferramentas que apoiam na modernização através de uma exxperiência de uso simples. Cada passo é explorado através de um exemplo de criação de um Microserviço.  | https://www.ibm.com/us-en/marketplace/microclimate
+Introdução aos Microserviços | Este tutorial apresenta a história dos Microserviços e como eles apoiam e melhoram a construção de novas aplicações | https://www.ibm.com/developerworks/cloud/library/cl-bluemix-microservices-in-action-part-1-trs/index.html
+MicroServiços e WAS Liberty | Microserviços estão em todos os lugares. Quando devemos utilizar esta arquitetura ? Quais fatores devem ser considerados na sua decisão ? | https://developer.ibm.com/wasdev/docs/microservices/
+Microinvader : a importência de interfaces comuns em Microserviços | Entenda através desta implementação do jogo "Space Invaders" conceitos importantes de microserviços e como se pode obter baixo acoplamento | https://developer.ibm.com/wasdev/docs/microinvader-importance-common-interfaces-microservices/
 
 
