@@ -6,7 +6,7 @@ sidebar_label: IBM Cloud Private
 
 ## Sobre a oferta
 -------------------------------------
-Diferentes empresas têm diferentes necessidades de dados e aplicativos, de modo que um tipo de nuvem - pública ou privada - não atende melhor a todos.   
+Diferentes empresas têm diferentes necessidades de dados e aplicativos, de modo que um tipo de nuvem - pública ou privada - não atende melhor a todos.
 
 Uma nuvem privada oferece às organizações maior controle, segurança mais rígida, custos previsíveis e opções flexíveis de gerenciamento, pois permite que as empresas personalizem seu ambiente de acordo com suas necessidades exclusivas e requisitos de segurança. 
 
