@@ -32,3 +32,15 @@ Para auxiliar nestas duas frentes, a IBM oferece soluções totalmente gratuitas
 
 [Transformation Advisor](https://developer.ibm.com/product-insights/transformation-advisor/)
 <br />
+
+## Roadmap de treinamentos
+
+Título | Descrição | link
+------------ | ------------- | -------------
+MicroProfile e Liberty profile|  Microprofile é uma comunidade que foi criada em 2016 e é focada em uma rápida inovação sobre temas como Microserviços e Java Enterprise, sendo suportado por muitas pessoas e empresas da comunidade JEE, como grupos de usuários Java, IBM, RedHat, Tomitribe, Payara e muitos outros. | https://developer.ibm.com/wasdev/docs/microprofile/
+The twelve factor App | Manifesto com boas práticas para construção de Microserviços | https://12factor.net/
+Migração | A IBM oferece um conjunto de ferramentas que ajudam na migração entre as versões de Websphere (tradicional ou Liberty), bem como ambientes cloud como Bluemix. Também apoia na migração de códigos criados para soluções não IBM. Este processo é feito analisando-se códigos fontes, binários e configurações de forma não intrusiva | https://developer.ibm.com/wasdev/docs/migration/
+IBM WebSphere Application Server Migration Toolkit | Esta suite permite que você migre seus aplicativos corporativos de forma rápida, a um custo mais baixo. É possível a migração entre versões diferentes de Websphere ou migração competitiva, a partir de outros servidores de mercado, como Tomcat, JBOSS, WebLogic | https://www.ibm.com/developerworks/library/mw-1701-was-migration/index.html
+Como usar WebSphere Application Server Migration Toolkit |  |  https://vimeo.com/33676168
+
+
