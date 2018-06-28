@@ -8,15 +8,15 @@
       "cog-ofer-01",
       "dop-ofer-01"
     ],
-    "Data Science & Business Analytics": [
-      "das01",
-      "bia01"
-    ],
     "Digital & Business Automation": [
       "dba01"
     ],
     "Hybrid Integration & Development": [
       "hid01"
+    ],
+    "Data Science & Business Analytics": [
+      "das01",
+      "bia01"
     ],
     "Unified Governance & Integration": [
       "uni01",
@@ -27,15 +27,15 @@
     "Management & Platform": [
       "icp-prod-01"
     ],
-    "Data Science & Business Analytics": [
-      "das-prod-01",
-      "bia-prod-01"
-    ],
     "Digital & Business Automation": [
       "dba-prod-01"
     ],
     "Hybrid Integration & Development": [
       "hid-prod-01"
+    ],
+    "Data Science & Business Analytics": [
+      "das-prod-01",
+      "bia-prod-01"
     ],
     "Unified Governance & Integration": [
       "uni-prod-01",
