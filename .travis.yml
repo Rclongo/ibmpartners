@@ -5,6 +5,8 @@ node_js:
 branches:
   only:
     - master
+notifications:
+  slack: ibmbr-cloud-solutions:gGhaVsgbBlU20g4NSOPlIyYb    
 cache:
   yarn: true
 script:
