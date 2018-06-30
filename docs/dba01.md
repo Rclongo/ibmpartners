@@ -24,5 +24,15 @@ sidebar_label: IBM RPA
 - [ Link para DeveloperWorks ](https://developer.ibm.com/bpm/docs/ibm-robotic-process-automation-automation-anywhere/)
 - [ Acesse a documentação oficial ](https://www.ibm.com/support/knowledgecenter/en/SSMGNY)
 
+## Treinamentos
+-----------------------------------
+Automação de tarefas humanas
+|Título|Tipo|Descrição|Duração|Link| 
+|---|---|---|---|---|
+| IBM BPM Knowledge Center | | IBM BPM official documentation site for all product versions. | Self-Service Navigation | https://www.ibm.com/support/knowledgecenter/SSMGNY_10.0.0/com.ibm.wbpm.rpa.main.doc/kc-homepage-rpa.html | 
+| Automation Anywhere Zendesk | | Automation Anywhere documentation | Self-Service Navigation | http://www.automationanywhere.zendesk.com |
+| IBM RPA POT | | IBM RPA POT customized to provide general information about IBM RPA offering, technical discussions and hands-on. The objective is to provide a fast start in the technology for new Business Partners. It must be scheduled and onsite or virtual classes will occur based on the demand. | Onsite or Virtual Classes | Please contact Daniel Dalcaro (danield@br.ibm.com) about this workshop | 
+|
+
 # Site oficial IBM 
 Acesse o site da [IBM](https://www.ibm.com/automation/software/rpa)
